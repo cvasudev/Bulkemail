@@ -1,0 +1,12 @@
+<html>
+<p><font face = "Arial"><br>
+Hi All,<br><br>
+
+This is a test email which I am sending from my python program.<br><br>
+
+<b><u>Hope this is fine.</b></u><br>
+
+Thanks,<br>
+Anonymous<br>
+</font></p>
+</html>
